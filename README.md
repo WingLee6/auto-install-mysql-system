@@ -8,7 +8,7 @@
     + Mac系统找到`SystemForMac`文件目录，运行该源程序即可。
 
 ## 2. 使用场景简介
-    1. 满足MySQL数据库（for Centos7）安装要求，支持主流的MySQL版本：MySQL-55、MySQL-56、MySQL-57、MySQL-80，满足对服务器批量MySQL的安装，卸载等操作；
-    2. 满足在MySQL数据库及相关课程教学过程中，对学生服务器批量MySQL的安装，卸载等操作；
+1. 满足MySQL数据库（for Centos7）安装要求，支持主流的MySQL版本：MySQL-55、MySQL-56、MySQL-57、MySQL-80，满足对服务器批量MySQL的安装，卸载等操作；  
+2. 满足在MySQL数据库及相关课程教学过程中，对学生服务器批量MySQL的安装，卸载等操作；
 
 ## 3. 待添加
